@@ -2,7 +2,7 @@
 
 ## Requirements
 
-NodeJS, NPM
+[NodeJS](http://nodejs.org/download/)
 
 ## Install
 
