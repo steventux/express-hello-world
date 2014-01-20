@@ -16,4 +16,4 @@ $ npm install
 $ node app.js
 ```
 
-Tune your browser to *http://localhost:3000*
+Tune your browser to *[http://localhost:3000](http://localhost:3000)*
