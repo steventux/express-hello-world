@@ -16,4 +16,4 @@ $ npm install
 $ node server.js
 ```
 
-Tune your browser to *[http://localhost:3000](http://localhost:1337)*
+Tune your browser to *[http://localhost:1337](http://localhost:1337)*
