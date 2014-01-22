@@ -13,7 +13,7 @@ $ npm install
 ## Run
 
 ```
-$ node app.js
+$ node server.js
 ```
 
 Tune your browser to *[http://localhost:3000](http://localhost:3000)*
